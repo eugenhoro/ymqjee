@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ymq-back:war">
+    <output-path>$PROJECT_DIR$/ymq-back/target</output-path>
+    <root id="archive" name="ymq-back-1.0.war">
+      <element id="artifact" artifact-name="ymq-back:war exploded" />
+    </root>
+  </artifact>
+</component>
