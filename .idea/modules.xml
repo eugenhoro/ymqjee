@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/YMQ_back_jee.iml" filepath="$PROJECT_DIR$/.idea/YMQ_back_jee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ymq-back/ymq-back.iml" filepath="$PROJECT_DIR$/ymq-back/ymq-back.iml" />
     </modules>
   </component>
 </project>
